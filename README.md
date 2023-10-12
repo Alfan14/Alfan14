@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Alfan14
-- 👀 I’m interested in big data things
-- 🌱 I’m currently learning SQL
+- 👨‍💻I'm computer engginering students
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project together
-- 📫 How to reach me Septiyan140905@gmail.co,
+- 📫 How to reach me Septiyan140905@gmail.com.
 
 <!---
 Alfan14/Alfan14 is a ✨ special ✨ repository because its `README.md`appears on your GitHub profile.
