@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alfan14
 - 👨‍💻I'm computer engginering students
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on project together
 - 📫 How to reach me Septiyan140905@gmail.com.
 
