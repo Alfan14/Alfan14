@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfan14
 - 👨‍💻I'm computer engginering students
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on project together
 - 📫 How to reach me Septiyan140905@gmail.com.
